@@ -1,4 +1,4 @@
-# 📱 Instagram WebView Wrapper (The "Surgical" Edition)
+# 📱 Anti-Reels-Instagram WebView Wrapper (The "Surgical" Edition)
 
 A custom iOS "shell" for the Instagram webapp designed for **iPhone 14**. This project uses a React Native WebView to load Instagram while injecting a powerful, persistent JavaScript "shield" that removes distractions and restores user control.
 
